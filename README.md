@@ -1,8 +1,8 @@
-# bài 1: Can't Unsee - UI Testing Practice
+# Bài 1: Can't Unsee - UI Testing Practice
 
 ## 1. Giới thiệu (Introduction)
 * **Người thực hiện:** Bùi Trọng Nghĩa
-* **Mã sinh viên:** bit230288
+* **Mã sinh viên:** BIT230288
 * **Mục tiêu:** Rèn luyện kỹ năng kiểm thử giao diện (UI Testing), phát hiện các lỗi sai lệch nhỏ trong thiết kế (Pixel-perfect).
 
 ## 2. Kết quả thực hiện (Results)
@@ -23,7 +23,7 @@ Bài tập giúp cải thiện đáng kể sự chú ý đến chi tiết (Atten
 
 
 
-# bài 2: Student Grade Analyzer 
+# Bài 2: Student Grade Analyzer 
 
 Dự án thực hành kiểm thử phần mềm (Software Testing) với Java và JUnit 5.
 Chương trình cung cấp các chức năng phân tích điểm số học sinh và đảm bảo tính đúng đắn thông qua các ca kiểm thử đơn vị (Unit Tests).
@@ -63,7 +63,7 @@ Các test case được thiết kế để bao phủ toàn diện các tình hu�
     * Danh sách toàn điểm sai (không có điểm nào hợp lệ).
 
 ## kết quả thực hiện
-dưới đây là kết quả chạy test:
+Dưới đây là kết quả chạy test:
 <img width="1606" height="956" alt="image" src="https://github.com/user-attachments/assets/90fb3a22-9ec9-46f8-93af-90b652d1208b" />
 
 ## Cấu trúc dự án

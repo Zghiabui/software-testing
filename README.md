@@ -23,7 +23,7 @@ Bài tập giúp cải thiện đáng kể sự chú ý đến chi tiết (Atten
 
 
 
-# Bài 2: Student Grade Analyzer 
+# Bài 2: Unit Testing với JUnit
 
 Dự án thực hành kiểm thử phần mềm (Software Testing) với Java và JUnit 5.
 Chương trình cung cấp các chức năng phân tích điểm số học sinh và đảm bảo tính đúng đắn thông qua các ca kiểm thử đơn vị (Unit Tests).
